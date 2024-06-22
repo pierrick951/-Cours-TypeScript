@@ -16,7 +16,10 @@ let listString : string[] = ['hello', 'world'] //tableau de string
 let tableauMixt: (number | string)[] = [1,'string',2,3,3, 'salut']
 
 //Tuples
-
 let coodonnes: [number, number]=[10,20]; // Tuple pour représenter des coordonnes
+
+
+
+
 
 
