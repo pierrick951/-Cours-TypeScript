@@ -1,0 +1,12 @@
+Qu'est-ce que TypeScript ?
+
+TypeScript est un langage de programmation open-source développé par Microsoft. Il s'agit d'une surcouche typée de JavaScript qui compile en JavaScript simple et standard. En d'autres termes, TypeScript ajoute des fonctionnalités de typage statique au JavaScript, permettant aux développeurs de détecter et de corriger des erreurs potentielles avant même d'exécuter le code.
+
+Avantages de l'utilisation de TypeScript
+Typage statique : TypeScript permet de spécifier des types pour les variables, les paramètres de fonction, les propriétés d'objet, etc. Cela aide à attraper les erreurs de type au moment de la compilation.
+
+Meilleure maintenance du code : Les types forts permettent une meilleure compréhension du code et une documentation automatique. Cela rend le code plus facile à lire et à maintenir, surtout dans les grands projets.
+
+Développement plus robuste : En détectant les erreurs à un stade précoce, TypeScript aide à réduire les bugs dans le code JavaScript produit.
+
+Compatibilité avec JavaScript : TypeScript est compatible avec JavaScript existant. Cela signifie que vous pouvez inclure du code JavaScript dans un projet TypeScript sans problème.
