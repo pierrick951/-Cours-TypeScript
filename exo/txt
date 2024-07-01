@@ -1,0 +1,28 @@
+Énumération (enum) :
+
+Une énumération est utilisée pour définir un ensemble de valeurs nommées constantes. Dans l'exercice, l'énumération FuelType est utilisée pour représenter les types de carburant disponibles pour les véhicules (Essence, Diesel, Électrique). Elle permet de choisir un type de carburant de manière sûre et organisée.
+
+
+
+Interface vs Type :
+
+Une interface en TypeScript sert à définir la structure d'un objet. Elle permet de garantir qu'un objet respecte un certain contrat, c'est-à-dire qu'il possède les propriétés et méthodes définies dans l'interface.
+Un type peut être utilisé de manière similaire aux interfaces pour définir la forme d'un objet, mais il est plus flexible et peut également être utilisé pour définir des types primitifs, des unions, et d'autres constructions plus complexes.
+
+Différence principale :
+Les interfaces peuvent être étendues (inherited) et implémentées par des classes.
+Les types peuvent utiliser des unions et intersections pour combiner plusieurs types.
+
+
+
+Modificateurs d'accès (public, private, protected) :
+
+public : Les membres publics sont accessibles partout dans le programme.
+private : Les membres privés ne sont accessibles qu'à l'intérieur de la classe où ils sont définis.
+protected : Les membres protégés sont accessibles dans la classe où ils sont définis et dans les classes dérivées.
+
+
+
+Type générique :
+
+Un type générique permet de créer des composants réutilisables. Ils permettent de définir des types de manière flexible, en laissant une partie du type à spécifier plus tard.
